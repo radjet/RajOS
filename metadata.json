@@ -1,0 +1,5 @@
+{
+  "name": "RajOS World Map",
+  "description": "A sharp, dark-mode RPG-style personal OS dashboard featuring a world map of life zones, fog-of-war mechanics, and quick capture logging.",
+  "requestFramePermissions": []
+}
